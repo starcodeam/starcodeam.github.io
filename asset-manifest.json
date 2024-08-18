@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.d3d319ce.css",
-    "main.js": "/static/js/main.850a9f4d.js",
-    "static/media/logo1.png": "/static/media/logo1.5aad99e25414d882c1a2.png",
+    "main.js": "/static/js/main.69969483.js",
     "static/media/colored_smoke_video.mp4": "/static/media/colored_smoke_video.a83cf9482e4a7c7080ae.mp4",
-    "static/media/logo3.png": "/static/media/logo3.dc1b4d5550d3090017d3.png",
     "static/media/logo2.png": "/static/media/logo2.d27e0c6b5da6f8d946bc.png",
     "static/media/site2.png": "/static/media/site2.3a2b6d1b315a05c0d0f1.png",
     "static/media/site1.png": "/static/media/site1.8456dfdfc3c7002b184e.png",
     "static/media/site3.png": "/static/media/site3.7c0e8357ec1d6182c934.png",
     "static/media/logo4.png": "/static/media/logo4.9b35e02f55cec0a5ef89.png",
+    "static/media/logo1.png": "/static/media/logo1.eba29b593f1f78a641cd.png",
+    "static/media/logo3.png": "/static/media/logo3.91f695a02c12b19a1a44.png",
     "static/media/mastercard.png": "/static/media/mastercard.460b10fdc5b8f46bf6e2.png",
     "static/media/visa.png": "/static/media/visa.2d3d2c66b12cb4692fc6.png",
     "static/media/idram.png": "/static/media/idram.5a207d8490080e63792b.png",
     "static/media/ameriabank.png": "/static/media/ameriabank.b6707822dafce6a1f7f0.png",
     "index.html": "/index.html",
     "main.d3d319ce.css.map": "/static/css/main.d3d319ce.css.map",
-    "main.850a9f4d.js.map": "/static/js/main.850a9f4d.js.map"
+    "main.69969483.js.map": "/static/js/main.69969483.js.map"
   },
   "entrypoints": [
     "static/css/main.d3d319ce.css",
-    "static/js/main.850a9f4d.js"
+    "static/js/main.69969483.js"
   ]
 }
